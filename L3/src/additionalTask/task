@@ -1,0 +1,53 @@
+Собственная Hashtable.
+Реализовать метод вставки в
+собственном классе SimpleHashtable
+
+The task you mentioned is asking you
+to implement your own version of a hash table
+and specifically to implement
+a method for inserting data
+into this custom hash table class.
+
+In other words, you're being asked
+to create a simplified version of
+a hash table data structure
+and provide a way to insert data into it.
+
+Here's what you can do to fulfill this task:
+
+Create a Custom Hashtable Class:
+Start by creating a new class,
+let's call it SimpleHashtable,
+that will serve as your custom hash table.
+
+Implement a Hashing Function:
+Hash tables use a hashing function
+to map keys to specific indices in an array.
+Implement a simple hashing function
+that takes a key and
+returns an index where
+the value associated with that key
+will be stored in the array.
+
+Implement the Insertion Method:
+In your SimpleHashtable class,
+create a method (let's say insert)
+that takes a key and a value as parameters.
+
+In this method,
+calculate the hash value for the key
+using your hashing function,
+and then store the value
+at the corresponding index in the array.
+
+This is a very basic example to give you an idea.
+In practice, hash tables handle
+collisions,
+resizing,
+and other factors that can make them more complex.
+Depending on the specifics of your task
+and your class's requirements,
+you might need to add
+collision handling, resizing, and more.
+
+Remember to adapt the code to your specific task and requirements.

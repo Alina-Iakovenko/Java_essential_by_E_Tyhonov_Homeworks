@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/L8/008_Samples/008_Samples.iml" filepath="$PROJECT_DIR$/L8/008_Samples/008_Samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L9/009_Samples/009_Samples.iml" filepath="$PROJECT_DIR$/L9/009_Samples/009_Samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L10/009_Samples-2/009_Samples-2.iml" filepath="$PROJECT_DIR$/L10/009_Samples-2/009_Samples-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_essential_by_E_Tyhonov_Homeworks.iml" filepath="$PROJECT_DIR$/.idea/Java_essential_by_E_Tyhonov_Homeworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L1/L1.iml" filepath="$PROJECT_DIR$/L1/L1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L10/L10.iml" filepath="$PROJECT_DIR$/L10/L10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L2/L2.iml" filepath="$PROJECT_DIR$/L2/L2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L3/L3.iml" filepath="$PROJECT_DIR$/L3/L3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L4/L4.iml" filepath="$PROJECT_DIR$/L4/L4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L5/L5.iml" filepath="$PROJECT_DIR$/L5/L5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L5/src/L51.iml" filepath="$PROJECT_DIR$/L5/src/L51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L6/L6.iml" filepath="$PROJECT_DIR$/L6/L6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L7/L7.iml" filepath="$PROJECT_DIR$/L7/L7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L7/L7 samples/L7 samples.iml" filepath="$PROJECT_DIR$/L7/L7 samples/L7 samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L8/L8.iml" filepath="$PROJECT_DIR$/L8/L8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L9/L9.iml" filepath="$PROJECT_DIR$/L9/L9.iml" />
+    </modules>
+  </component>
+</project>
