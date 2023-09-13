@@ -2,7 +2,7 @@ package additionalTask;
 
 public class SimpleHashtable{
         private static final int TABLE_SIZE = 100; // Size of the underlying array
-        private Object[] table = new Object[TABLE_SIZE];
+        private final Object[] table = new Object[TABLE_SIZE];
 
         // Hashing function
         private int hashFunction(String key) {
@@ -25,4 +25,4 @@ public class SimpleHashtable{
             // ...
         }
     }
-}
+
